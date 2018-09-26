@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/com/sys/AllWorksPanel.java=UTF-8
+encoding//src/com/sys/ChangPwdPanel.java=UTF-8
+encoding//src/com/sys/DetailPanel.java=UTF-8
+encoding//src/com/sys/FaaliyetForm.java=UTF-8
+encoding//src/com/sys/Listeners.java=UTF-8
+encoding//src/com/sys/Login.java=UTF-8
+encoding//src/com/sys/Manager.java=UTF-8
+encoding//src/com/sys/MyWorksPanel.java=UTF-8
+encoding//src/com/sys/SearchFaaliyet.java=UTF-8
+encoding//src/com/sys/SearchResult.java=UTF-8
+encoding//src/com/sys/UsersPanel.java=UTF-8
+encoding//src/com/sys/dao/JDBCFaaliyetDAO.java=UTF-8
+encoding//src/com/sys/dao/JDBCKullaniciDAO.java=UTF-8
